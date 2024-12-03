@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45852305905",
+    "project_id": "foodstore-f1fbb",
+    "storage_bucket": "foodstore-f1fbb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45852305905:android:a7d282f30b5d00e0637c50",
+        "android_client_info": {
+          "package_name": "com.example.food_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2J_yDc6AcfYnJYZ2Tbsd0mj71MRTyGb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
